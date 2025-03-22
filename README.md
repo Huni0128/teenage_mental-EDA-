@@ -1,6 +1,6 @@
 # 청소년 정신 건강 데이터 분석
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.3-blue.svg)](https://www.python.org/)
 
 이 프로젝트는 **청소년들의 스트레스, 우울감, 자살 생각 경험률** 데이터를 기반으로 탐색적 데이터 분석(EDA)을 수행한 것입니다. 성별에 따른 정신 건강 상태 분포를 시각화하여 인사이트를 도출합니다.
 
@@ -8,7 +8,7 @@
 
 ## 📁 데이터 출처
 
-- [청소년 정신 건강 통계 데이터](#) [서울시 청소년 정신건강 데이터](https://data.seoul.go.kr/dataList/10956/S/2/datasetView.do)
+- [청소년 정신 건강 통계 데이터](https://data.seoul.go.kr/dataList/10956/S/2/datasetView.do)
 
 ---
 
