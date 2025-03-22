@@ -33,11 +33,11 @@
 ## 🖼️ 결과 예시
 
 <div align="center">
-  <img src="images/stress.png" width="450"/><br/>
+  <img src="images/stress.png" width="600"/><br/>
   <em>스트레스 경험률</em><br/><br/>
-  <img src="images/depression.png" width="450"/><br/>
+  <img src="images/depression.png" width="600"/><br/>
   <em>우울감 경험률</em><br/><br/>
-  <img src="images/suicide.png" width="450"/><br/>
+  <img src="images/suicide.png" width="600"/><br/>
   <em>자살 생각률</em>
 </div>
 
